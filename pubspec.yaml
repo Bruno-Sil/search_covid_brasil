@@ -1,8 +1,7 @@
 name: search_covid_brasil
 description: Package para consulta de dados e informações sobre o covid-19 por estados e municípios do Brasil.
-version: 1.0.0
-author:
-homepage: https://github.com/Bruno-Sil/search_covid_brasil.git
+version: 1.0.1
+homepage: https://github.com/Bruno-Sil/search_covid_brasil
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
