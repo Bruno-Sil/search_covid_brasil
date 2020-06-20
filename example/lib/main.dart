@@ -75,9 +75,8 @@ class _MyHomePageState extends State<MyHomePage> {
       
       body: Center(
         child: FutureBuilder<SearchCovidBrasil>(
-          future: SearchCovidBrasil.getInstance("69005180"),
           builder: (context, snapshot) {
-            return Text("snapshot.data == null ? "" : snapshot.data.name");
+            return Text("snapshot.name == null ? "" : snapshot.data.name");
           },
         ),
       ),

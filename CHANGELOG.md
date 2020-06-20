@@ -1,3 +1,4 @@
-[1.0.1] - Segundo Release.
-Segundo release.
-[1.0.1] - TODO: Add release date.
+[1.0.2] - Terceiro Release.
+
+Terceiro release.
+[1.0.2] - TODO: Add release date.
